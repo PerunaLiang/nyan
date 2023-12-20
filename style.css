@@ -13,8 +13,8 @@
 
     }
 
-    75% {
-        transform: translate(250%);
+    70% {
+        transform: translate(400%);
 
     }
 
@@ -58,7 +58,6 @@
 .nyan {
     animation-name: nyanmove;
     animation-duration: 8s;
-    animation-iteration-count: ;
     animation-delay: 11s;
     opacity: 0.85;
     animation-iteration-count: 10;
@@ -68,7 +67,7 @@
 .rainbowroad {
 
     animation-name: rainbow;
-    animation-duration: 20s;
+    animation-duration: 15s;
     padding: 20px;
     padding-top: 25px;
     border: solid black;
@@ -188,6 +187,6 @@
     grid-column: 2;
     grid-row: 2;
     animation-name: fade-in;
-    animation-duration: 10s;
+    animation-duration: 25s;
     animation-delay: 11s;
 }
